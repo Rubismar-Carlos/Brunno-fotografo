@@ -140,18 +140,8 @@ span {
     padding: 20px;
 }
 
-.box-cot {
-    display: flex;
-    justify-content: center;
-    margin-top: 10px;
-}
-
-.box-cot a {
-    display: flex;
-    gap: 10px;
-}
-
 .box-cot svg {
-    font-size: 1.3em;
+    margin-top: 20px;
+    font-size: 3em;
     color: rgb(2, 255, 2);;
 }

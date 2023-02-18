@@ -134,11 +134,11 @@ const Orcamentos = () => {
         </div>
       </div>
       <div className="box-contato">
-        <h2>MEIOS DE CONTATO</h2>
+        <h2>CONTATO</h2>
         <div className="boxer-cot">
           <div className="box-cot">
             <Link to={urlWhats} target="_blank">
-              < BsWhatsapp /> <p>(62) 9 9278 9327</p>
+              < BsWhatsapp />
             </Link>
           </div>
         </div>

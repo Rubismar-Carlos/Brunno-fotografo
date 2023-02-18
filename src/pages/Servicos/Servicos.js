@@ -49,7 +49,7 @@ const Servicos = () => {
                 </div>
             </div>
             <div className='box-btn'>
-                <p>OLÁ SOU <span>BRUNNO CARVALHO</span>, GOSTARIA DE ME <span>CONHEÇER</span>?</p>
+                <p>OLÁ SOU <span>BRUNNO CARVALHO</span>, GOSTARIA DE ME <span>CONHECER</span>?</p>
                 <div>
                     <button id='btn'><Link to="/about">CONHECER BRUNNO!</Link></button>
                 </div>
