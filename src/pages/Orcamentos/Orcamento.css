@@ -1,0 +1,155 @@
+.orcamentos {
+    text-align: center;
+    margin-top: 20px;
+}
+
+.orcamentos h1 {
+    margin-bottom: 10px;
+}
+
+
+@media (max-width:800px ) {
+    
+    .info img {
+        width: 100%;
+    }
+
+}
+
+span {
+    color: rgb(1, 247, 1);
+}
+
+.info {
+    margin-top: 20px;
+}
+
+.pacotes-casamentos {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.nome-box {
+    display: flex;
+    gap: 10px;
+}
+
+.nome-box svg {
+    font-size: 1.5em;
+}
+
+#icon-silver {
+    color: silver;
+}
+
+#icon-gold {
+    color: gold;
+}
+
+#icon-diamond {
+    color: aqua;
+}
+
+#icon-extra {
+    color: red;
+}
+
+.box-casamentos {
+    text-align: left;
+    margin-top: 20px;
+}
+
+.box-casamentos h3 {
+    margin-bottom: 10px;
+    color: rgb(4, 252, 4);
+}
+
+.box-casamentos p {
+    padding: 5px;
+}
+
+.books {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin-top: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+    padding: 20px;
+    gap: 20px;
+    background-color: rgba(128, 128, 128, 0.164);
+    border: 1px solid white;
+}
+
+.extras {
+    margin-top: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+    display: flex;
+    justify-content: center;
+}
+
+.box-pagamento {
+    margin-top: 30px;
+    background-color: rgba(128, 128, 128, 0.164);
+    border: 1px solid white;
+    padding: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.boxer-pag {
+    display: flex;
+    flex-direction: column;
+    margin-top: 20px;
+}
+
+.box-pag {
+    display: flex;
+    max-width: 350px;
+    margin: 0 auto;
+    gap: 20px;
+    padding: 10px;
+}
+
+.icon-cash {
+    color: rgb(2, 255, 2);
+    font-size: 2em;
+}
+
+.icon-cash2 {
+    font-size: 3em;
+    color: rgb(2, 255, 2);
+
+}
+
+.icon-card {
+    color: rgb(238, 238, 238);
+    font-size: 2em;
+}
+
+.box-contato {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    padding: 20px;
+}
+
+.box-cot {
+    display: flex;
+    justify-content: center;
+    margin-top: 10px;
+}
+
+.box-cot a {
+    display: flex;
+    gap: 10px;
+}
+
+.box-cot svg {
+    font-size: 1.3em;
+    color: rgb(2, 255, 2);;
+}
