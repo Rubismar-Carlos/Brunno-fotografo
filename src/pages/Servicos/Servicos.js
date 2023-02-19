@@ -6,16 +6,20 @@ import { motion} from 'framer-motion'
 
 import { useState, useEffect, useRef } from 'react'
 
-import image1 from '../../imagem/servicos/img-tatuador.png'
-import image2 from '../../imagem/servicos/img-biomedicina.png'
-import image3 from '../../imagem/servicos/img-barbeiro.png'
-import image4 from '../../imagem/servicos/img-equipe.png'
-import image5 from '../../imagem/servicos/img-escritorio.png'
-import image6 from '../../imagem/servicos/img_casamento.png'
+import image1 from '../../imagem/servicos/img-servico-1.jpg'
+import image2 from '../../imagem/servicos/img-servico-2.jpg'
+import image3 from '../../imagem/servicos/img-servico-3.jpg'
+import image4 from '../../imagem/servicos/img-servico-4.jpg'
+import image5 from '../../imagem/servicos/img-servico-5.jpg'
+import image6 from '../../imagem/servicos/img-servico-6.jpg'
+import image7 from '../../imagem/servicos/img-servico-7.jpg'
+import image8 from '../../imagem/servicos/img-servico-8.jpg'
+import image9 from '../../imagem/servicos/img-servico-9.jpg'
+import image10 from '../../imagem/servicos/img-servico-10.jpg'
 
 const Servicos = () => {
 
-    const images = [image1, image2, image3, image4, image5, image6]
+    const images = [image1, image2, image3, image4, image5, image6, image7, image8, image9, image10]
 
     const [width, setWidth] = useState(0)
 
