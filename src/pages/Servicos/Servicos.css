@@ -7,7 +7,7 @@
     color: rgb(2, 255, 2);
 }
 
-@media (max-width: 600px) {
+@media (max-width: 1561px) {
     .slide {
         width: 350px;
         height: 700px;
@@ -21,7 +21,7 @@
     }
 }
 
-@media (min-width: 602px) {
+@media (min-width: 1562px) {
     .slide {
         width: 1500px;
         height: 700px;
